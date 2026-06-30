@@ -1,2 +1,2 @@
 # exercism_elixir
-Solving exercism problems on Elixir track
+My solutions and learning journey through the Exercism Elixir track
